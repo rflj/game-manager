@@ -1,1 +1,1 @@
-# handball-game-manager
+# game-manager
